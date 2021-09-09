@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lazaro-rd;
-- 👀 I’m interested in computer science and engineering;
-- 🌱 I’m currently learning android delopment;
-- 💞️ I’m looking to collaborate on android development; 
+- 👀 I’m interested in computer science and web development;
+- 🌱 I’m currently learning backend web development;
+- 💞️ I’m looking to collaborate on frontend web development projects; 
 - 📫 How to reach me: trough my email.
 
 <!---
