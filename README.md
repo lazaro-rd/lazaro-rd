@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lazaro-rd;
-- 👀 I’m interested in computer science and web development;
-- 🌱 I’m currently learning backend web development;
-- 💞️ I’m looking to collaborate on frontend web development projects; 
-- 📫 How to reach me: trough my email.
+- 👋 Hi, I’m Lázaro Rodrigues @rodrigueslazaro;
 
 <!---
 lazaro-rd/lazaro-rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
